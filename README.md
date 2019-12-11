@@ -1,2 +1,0 @@
-# bcp
-reto bcp
